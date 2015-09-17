@@ -1,4 +1,4 @@
-<h2>InterDisciplinarity Indicators for Research Institutions</h2>
+<h2>Interdisciplinarity Indicators for Research Institutions</h2>
 
 This project develops R code to compute the Rao-Stirling indicators (Stirling, 2007; Porter and Rafols, 2009; Rafols and Meyer, 2010) as a measure of the degree of interdisciplinarity of research domains of institutions. For a chosen corpus of publications corresponding to a domain under study, a global interdisciplinarity index is computed. Two decompositions of this index allow to further scrutinize the mode of integration and the disciplines from which knowledge is integrated in the domain. Statistical tests are used to base the comparison of the indicators with benchmark values. This method is presented in Cassi et al. 2014 (will be filed in this repository in **Papers**). 
 * The different steps of the program are described in the file **Steps.odt**
