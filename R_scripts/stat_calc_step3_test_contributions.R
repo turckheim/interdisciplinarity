@@ -1,4 +1,5 @@
-# Compute the contributions of categories(classes) for the selected categoy(corpus) on the selected institutions and their z-scores and p-values.
+# Compute the contributions of categories(classes) for the selected corpora
+# on the selected institutions and their z-scores and p-values.
 
 # Inputs: directory "input" (in data directory)
 #         directory "stat_results_world" (in data directory)
