@@ -7,7 +7,7 @@ This project develops R code to compute the Rao-Stirling indicators (Stirling, 2
 * Indicators for the WoS categories (period 2008-2012) are in **data_integer/stats_results_world** and in **data_frac/stats_results_world**
 * Related articles are in **Papers**
 
-Main contributors to this project: Lorenzo Cassi, Raphaël Champeimont, Wilfriedo Mescheba, Élisabeth de Turckheim
+Programs were written by Raphaël Champeimont.
 
 **References**
 
